@@ -1,7 +1,7 @@
 <?php
 // $Id: nhpid_data_export.module,v 1.0.0 2010/07/27 15:26:16 peijun zhang $
-include_once 'XML/Serializer.php';
-include_once 'PHPExcel/PHPExcel.php';
+//include_once 'XML/Serializer.php';
+//include_once 'PHPExcel/PHPExcel.php';
 
 define("DATA_EXPORTING_LOCK_VARIABLE", 'nhpiddms_system_lock');
 define("DATA_EXPORTING_LOCK_TEMP_VARIABLE", 'nhpiddms_deta_exporting_temp_lock');
